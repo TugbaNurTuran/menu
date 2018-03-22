@@ -5,7 +5,7 @@ namespace kouosl\menu\models;
 use Yii;
 
 /**
- * This is the model class for table "menu".
+ * This is the model class for table "samples".
  *
  * @property integer $id
  * @property string $title
